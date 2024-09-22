@@ -1,0 +1,41 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f8fa;
+  }
+  
+  h1 {
+    color: #1da1f2;
+  }
+  
+  .container {
+    margin: 20px;
+  }
+  
+  #username {
+    padding: 10px;
+    width: 200px;
+    font-size: 16px;
+  }
+  
+  #generate {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #1da1f2;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #generate:hover {
+    background-color: #0d95e8;
+  }
+  
+  #visualization {
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+  }
+  
